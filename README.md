@@ -12,3 +12,5 @@ I'm using HTML, CSS, and JavaScript
 </div>
 
 ### 🔭 I’m working on
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinarashidi&layout=donut)](https://github.com/mobinarashidi/github-readme-stats)
